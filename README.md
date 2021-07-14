@@ -4,5 +4,3 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="GoldenStar Spotify Playing" width="350" />](https://open.spotify.com/playlist/1314n5hBhXblscSTF0XsYH?si=81db3bd2f140403f)
-  | <div><br><br>Hit a star<br><a href="https://github.com/harshalrj25/harshalrj25"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></div>  |
-| ------------- | ------------- |
