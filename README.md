@@ -3,6 +3,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/5BoApeZ2BiGCRVRh5f187z?si=9bdd90a2f0d5400d)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="GoldenStar Spotify Playing" width="350" />](https://open.spotify.com/playlist/1314n5hBhXblscSTF0XsYH?si=81db3bd2f140403f)
 
 ![image](https://camo.githubusercontent.com/bfb7329298828b6c27cca6d416ec6d516951bfb703b233798b547816a277257d/68747470733a2f2f696d6167652e6e6f656c736861636b2e636f6d2f66696368696572732f323032302f33352f352f313539383630313338302d74656e6f722e676966)
