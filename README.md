@@ -5,4 +5,4 @@
 
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="GoldenStar Spotify Playing" width="350" />](https://open.spotify.com/playlist/1314n5hBhXblscSTF0XsYH?si=e5eadf9f998049b5) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenStarq&theme=dracula" alt="GoldenStar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenStarq" alt="GoldenStar" /></p>
