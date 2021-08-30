@@ -1,7 +1,7 @@
 <a href="https://timo.sh/?ref=github-header"><img alt="Social banner for GoldenStar" src="https://github.com/GoldenStarq/GoldenStarq/blob/Star/assets/header.svg"/></a>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[![stats](https://github-readme-stats.vercel.app/api?username=GoldenStarq&count_private=true&show_icons=true&border_radius=10&text_color=ffcc00&custom_title=⭐᲼GoldenStar)]
+(https://github-readme-stats.vercel.app/api?username=GoldenStarq&count_private=true&show_icons=true&border_radius=10&text_color=ffcc00&custom_title=⭐᲼GoldenStar)
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenStarq" alt="GoldenStar" /></p>
 
