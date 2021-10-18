@@ -17,7 +17,7 @@
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/feies7xv7l65vvz5vcx6svlb5)
 
-![](https://komarev.com/ghpvc/?username=GoldenStarq)
+![](https://komarev.com/ghpvc/?username=GoldenStarq&color=yellow)
 
 ⭐ By viewing public files, Do not judge the privates
 
