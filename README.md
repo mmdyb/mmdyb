@@ -22,6 +22,8 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/501787965765451786" align="right" />
 </a> -->
 
+![](https://komarev.com/ghpvc/?username=dandev95&label=Views&color=brightgreen)
+
 ⭐ By viewing public files, Do not judge the privates
 
 <!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenStarq&card_width=550&show_icons=true&border_radius=10&theme=radical)](https://github.com/GoldenStarq) -->
