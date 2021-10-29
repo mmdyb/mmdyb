@@ -1,4 +1,4 @@
-<a href="https://github.com/GoldenStarq/GoldenStarq"><img alt="Social banner for GoldenStar" src="https://github.com/GoldenStarq/GoldenStarq/blob/Star/assets/header.svg"/></a>
+<a href="https://github.com/GoldenStarq"><img alt="Social banner for GoldenStar" src="https://github.com/GoldenStarq/GoldenStarq/blob/Star/assets/header.svg"/></a>
 
 <table>
   <tr>
