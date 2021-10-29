@@ -1,4 +1,4 @@
-<a href="https://timo.sh/?ref=github-header"><img alt="Social banner for GoldenStar" src="https://github.com/GoldenStarq/GoldenStarq/blob/Star/assets/header.svg"/></a>
+<img alt="Social banner for GoldenStar" src="https://github.com/GoldenStarq/GoldenStarq/blob/Star/assets/header.svg"/>
 
 <table>
   <tr>
