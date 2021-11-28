@@ -16,6 +16,7 @@
 </table>
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/feies7xv7l65vvz5vcx6svlb5)
+<img src="https://novatorem.vercel.app/api/spotify">
 
 <!-- <a href="https://github.com/goldenstarq">
   <a href="https://discord.com/users/501787965765451786">
