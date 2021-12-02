@@ -34,3 +34,9 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenStarq" alt="GoldenStar" /></p>
 
 ![](https://github.com/GoldenStarq)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenStarq&layout=compact&hide=php,smarty&title_color=fff&text_color=000000" /> -->
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://goldenstarq.github.io/">
+</iframe>
