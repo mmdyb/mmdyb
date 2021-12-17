@@ -17,6 +17,7 @@
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/feies7xv7l65vvz5vcx6svlb5)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoldenStarq&theme=light)
 <!-- <a href="https://github.com/goldenstarq">
   <a href="https://discord.com/users/501787965765451786">
   <img src="https://lanyard-profile-readme.vercel.app/api/501787965765451786" align="right" />
