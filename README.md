@@ -1,4 +1,4 @@
-<a href="https://github.com/OnlyTrueStar"><img alt="Social banner for STAR" src="https://github.com/OnlyTrueStar/blob/Star/assets/header.svg"/></a>
+<a href="https://github.com/OnlyTrueStar"><img alt="Social banner for STAR" src="https://github.com/OnlyTrueStar/OnlyTrueStar/blob/Star/assets/header.svg"/></a>
 
 <table>
   <tr>
