@@ -24,7 +24,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/501787965765451786" align="right" />
 </a> -->
 
-![](https://komarev.com/ghpvc/?username=OnlyTrueStar&label=Views&color=blueviolet)ᴿᵉˢᵉᵗᵗᵉᵈ
+![](https://komarev.com/ghpvc/?username=OnlyTrueStar&label=Views&color=blueviolet)ᴿᵉˢᵉᵗᵉᵈ
 
 ⭐ By viewing public files, Do not judge the privates
 
