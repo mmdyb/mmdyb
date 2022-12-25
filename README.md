@@ -16,15 +16,14 @@
 </table>
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-<p align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/feies7xv7l65vvz5vcx6svlb5)
-</p>
 <!-- <p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
 	<a href="#">Contact Support</a> —
 	<a href="#">GitHub Status</a> —
 	<a href="#">@githubstatus</a> -->
 </p>
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/feies7xv7l65vvz5vcx6svlb5)
 
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OnlyTrueStar&theme=monokai) -->
