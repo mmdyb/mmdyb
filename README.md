@@ -32,6 +32,12 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/501787965765451786" align="right" />
 </a> -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/OnlyTrueStar/OnlyTrueStar/Star/assets/github-snake.svg">
+</picture>
+
 ![](https://komarev.com/ghpvc/?username=OnlyTrueStar&label=Views&color=blueviolet) ᴿᵉˢᵉᵗᵉᵈ
 
 <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> By viewing public files, Do not judge the privates
