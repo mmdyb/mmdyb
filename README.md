@@ -33,8 +33,8 @@
 </a> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OnlyTrueStar/OnlyTrueStar/Star/assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OnlyTrueStar/OnlyTrueStar/Star/assets/github-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/OnlyTrueStar/OnlyTrueStar/Star/assets/github-snake.svg">
 </picture>
 
