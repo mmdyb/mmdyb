@@ -1,16 +1,16 @@
-<a href="https://github.com/OnlyTrueStar"><img alt="Social banner for STAR" src="https://github.com/OnlyTrueStar/OnlyTrueStar/blob/Star/assets/header.svg"/></a>
+<a href="https://github.com/CallMyNameStar"><img alt="Social banner for STAR" src="https://github.com/CallMyNameStar/CallMyNameStar/blob/Star/assets/header.svg"/></a>
 
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=OnlyTrueStar&custom_title=⭐&nbsp;STAR&count_private=true&show_icons=true&border_radius=10&text_color=ffcc00" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=CallMyNameStar&custom_title=⭐&nbsp;STAR&count_private=true&show_icons=true&border_radius=10&text_color=ffcc00" />
     </td>
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=OnlyTrueStar" alt="STAR" />
+      <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=CallMyNameStar" alt="STAR" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyTrueStar&layout=compact&hide=php,smarty&title_color=fff&text_color=000000" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMyNameStar&layout=compact&hide=php,smarty&title_color=fff&text_color=000000" />
     </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@
 </a> -->
 
 
-![](https://komarev.com/ghpvc/?username=OnlyTrueStar&label=Views&color=blueviolet) ᴿᵉˢᵉᵗᵉᵈ
+![](https://komarev.com/ghpvc/?username=CallMyNameStar&label=Views&color=blueviolet) ᴿᵉˢᵉᵗᵉᵈ
 
 <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> By viewing public files, Do not judge the privates
 
@@ -47,7 +47,7 @@
 ![](https://github.com/OnlyTrueStar)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyTrueStar&layout=compact&hide=php,smarty&title_color=fff&text_color=000000" /> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OnlyTrueStar/OnlyTrueStar/Star/assets/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OnlyTrueStar/OnlyTrueStar/Star/assets/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/OnlyTrueStar/OnlyTrueStar/Star/assets/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrueStar/CallMyNameStar/Star/assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CallMyNameStar/CallMyNameStar/Star/assets/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CallMyNameStar/CallMyNameStar/Star/assets/github-snake.svg">
 </picture>
