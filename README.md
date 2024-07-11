@@ -33,7 +33,7 @@
 </a> -->
 
 
-![](https://komarev.com/ghpvc/?username=CallMyNameStar&label=Views&color=blueviolet) ᴿᵉˢᵉᵗᵉᵈ
+<!-- ![](https://komarev.com/ghpvc/?username=CallMyNameStar&label=Views&color=blueviolet) -->
 
 <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> By viewing public files, Do not judge the privates
 
