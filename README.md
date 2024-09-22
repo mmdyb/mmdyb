@@ -11,6 +11,11 @@
   <a href="https://open.spotify.com/user/31h4evlwyia3te6vtrq3gv5xipsq">
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify">
   </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmdyb/mmdyb/Star/assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmdyb/mmdyb/Star/assets/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mmdyb/mmdyb/Star/assets/github-snake.svg">
+  </picture>
 </div>
 
 
@@ -34,9 +39,3 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdyb" alt="STAR" /></p>
 
 ![](https://github.com/mmdyb)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdyb&layout=compact&hide=php,smarty&title_color=fff&text_color=000000" /> -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmdyb/mmdyb/Star/assets/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmdyb/mmdyb/Star/assets/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mmdyb/mmdyb/Star/assets/github-snake.svg">
-</picture>
