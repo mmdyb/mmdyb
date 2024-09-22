@@ -1,19 +1,4 @@
-<a href="https://github.com/CallMyNameStar"><img alt="Social banner for STAR" src="https://github.com/CallMyNameStar/CallMyNameStar/blob/Star/assets/header.svg"/></a>
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=CallMyNameStar&custom_title=⭐&nbsp;STAR&count_private=true&show_icons=true&border_radius=10&text_color=ffcc00" />
-    </td>
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=CallMyNameStar" alt="STAR" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMyNameStar&layout=compact&hide=php,smarty&title_color=fff&text_color=000000" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/mmdyb"><img alt="Social banner for STAR" src="https://github.com/mmdyb/mmdyb/blob/Star/assets/header.svg"/></a>
 <!-- <p align="center">
 <!-- <p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
