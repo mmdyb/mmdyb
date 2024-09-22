@@ -7,7 +7,11 @@
 	<a href="#">@githubstatus</a>
 </p> -->
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/feies7xv7l65vvz5vcx6svlb5)
+<div align="center">
+  <a href="https://open.spotify.com/user/31h4evlwyia3te6vtrq3gv5xipsq">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</div>
 
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmdyb&theme=monokai) -->
