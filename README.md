@@ -29,7 +29,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=CallMyNameStar&label=Views&color=blueviolet) -->
 
-<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> By visit public repos, do not judge the privates
+<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> By visit public repos, do not judge the privates!
 
 <!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mmdyb&card_width=550&show_icons=true&border_radius=10&theme=radical)](https://github.com/mmdyb) -->
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="GoldenStar Spotify Playing" width="350" />](https://open.spotify.com/playlist/1314n5hBhXblscSTF0XsYH?si=e5eadf9f998049b5) -->
